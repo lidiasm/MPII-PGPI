@@ -1,4 +1,4 @@
-# Planificacin y Gestión de Proyectos
+# Planificación y Gestión de Proyectos
 
 ## Máster en Ingeniería Informática 19-20
 
